@@ -1,4 +1,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pattylo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=pattylo)](https://github.com/pattylo/github-profile-trophy)
 
 
 <!-- ### Hi there 👋 -->
