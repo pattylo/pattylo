@@ -1,5 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pattylo)](https://github.com/anuraghazra/github-readme-stats)
-
+[pattylo.github.io](pattylo.github.io)
 
 <!-- ### Hi there 👋 -->
 
